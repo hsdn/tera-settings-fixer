@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.md": "88304a352a380478f99ca56865131a5ca557d738a40304d0d2cf98ab7529c1a2",
+        "index.js": "c221c396cc9dd40b2a47b70bc13b95cd16dea190f1f2abe14c39a1112bdc7690",
+        "module.json": "f2dfe51547f03dfedbd9b852158025f182cebbb06444719462f83f8acabe8937"
+    },
+    "defs": {
+        "C_SAVE_CLIENT_ACCOUNT_SETTING": "raw",
+        "C_SAVE_CLIENT_CHAT_OPTION_SETTING": "raw",
+        "S_DECO_UI_INFO": "raw",
+        "S_EXIT": "raw",
+        "S_LOAD_CLIENT_ACCOUNT_SETTING": "raw",
+        "S_REPLY_CLIENT_CHAT_OPTION_SETTING": "raw"
+    }
+}

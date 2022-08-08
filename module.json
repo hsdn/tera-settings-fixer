@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["http://git.dev.hsdn.org/tera/tera-settings-fixer/raw/master/"],
+    "author": "HSDN",
+    "name": "tera-settings-fixer",
+    "options": {
+        "guiName": "Settings Fixer"
+    },
+    "description": "Fix your UI settings",
+    "version": "8/8/2022"
+}

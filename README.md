@@ -1,0 +1,1 @@
+# tera-settings-fixer
