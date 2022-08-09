@@ -14,12 +14,12 @@ module.exports = function saver(mod) {
 	mod.hook("C_SAVE_CLIENT_CHAT_OPTION_SETTING", "raw", cSaveClientSetting.bind(null, "chatSettings"));
 
 	mod.hook("S_EXIT", "raw", { "filter": { "fake": null } }, () => {
-		saveData(dataToSave);
+		saveData({ ...getData(), ...dataToSave });
 	});
 
 	mod.hook("S_DECO_UI_INFO", "raw", () => {
 		if (Object.keys(dataToSave).length !== 0) {
-			saveData(dataToSave);
+			saveData({ ...getData(), ...dataToSave });
 		}
 	});
 
