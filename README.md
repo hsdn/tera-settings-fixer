@@ -6,6 +6,6 @@ To save the settings after changing, exit the character selection screen or corr
 
 ## Lock Settings
 
-Use command `lock` to lock settings. To unlock the settings, re-enter the command.
+Use command `setlock` to lock settings. To unlock the settings, re-enter the command.
 
-Important: if you have changed the settings and want to lock them, first go to the character selection screen, then return to the game and enter the command `lock`.
+Important: if you have changed the settings and want to lock them, first go to the character selection screen, then return to the game and enter the command `setlock`.
