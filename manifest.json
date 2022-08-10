@@ -1,8 +1,8 @@
 {
     "files": {
-        "README.md": "2cd378ea8256c5328b226131c99e1d5268ebf10cf7d39697e9db7d03770f68c6",
-        "index.js": "8fd2a3fa6c083774fd9d49c927a3c93af59dd4e3058119a36d4661e0b147d2ae",
-        "module.json": "5acd7f5f7d9778ebd2c202af48ee8569d4a5e772e31fc94fdfb18394bfdc138b"
+        "README.md": "fc64838d3122c53889c241148b7ea55e684bb58987f3156e0b382a06d0a5e495",
+        "index.js": "b0e165c7fa60ac06ba5295c977e616e20e26748d4319a98d161c8d2889b56e2a",
+        "module.json": "9c4e3a43e305a2d011b635ee132805b8a1c63b4f08b72ce65ed17cb07b51004f"
     },
     "defs": {
         "C_SAVE_CLIENT_ACCOUNT_SETTING": "raw",
