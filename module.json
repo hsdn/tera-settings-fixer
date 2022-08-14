@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
-    "servers": ["http://git.dev.hsdn.org/tera/tera-settings-fixer/raw/master/"],
+    "servers": ["https://raw.githubusercontent.com/hsdn/tera-settings-fixer/master/"],
     "author": "HSDN",
     "name": "tera-settings-fixer",
     "options": {
         "guiName": "Settings Fixer"
     },
-    "description": "Fix your UI settings",
-    "version": "8/10/2022"
+    "description": "Saves your interface and chat settings in local storage, preventing bad settings from being loaded from the server.",
+    "version": "8/15/2022"
 }

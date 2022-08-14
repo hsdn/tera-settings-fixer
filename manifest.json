@@ -2,7 +2,7 @@
     "files": {
         "README.md": "32a2b91d4822d9f42d87b0f1e6dfef34e8361d22f86b79ac2ed0148eb16addc3",
         "index.js": "b0e165c7fa60ac06ba5295c977e616e20e26748d4319a98d161c8d2889b56e2a",
-        "module.json": "9c4e3a43e305a2d011b635ee132805b8a1c63b4f08b72ce65ed17cb07b51004f"
+        "module.json": "ef8c2295a30c033b6101d3e5e53f7c4021e17d549e113cfcc86e377d99715793"
     },
     "defs": {
         "C_SAVE_CLIENT_ACCOUNT_SETTING": "raw",
